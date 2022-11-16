@@ -16,7 +16,7 @@
     "generate-logos": "node scripts/generate-logos.js"
   },
   "dependencies": {
-    "nuxt": "^1.0.0"
+    "nuxt": "^3.0.0"
   },
   "devDependencies": {
     "axios": "^0.18.1",
